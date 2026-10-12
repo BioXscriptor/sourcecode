@@ -1,0 +1,6 @@
+{
+  "name": "LivHI",
+  "description": "Livestock Heat Intelligence (LivHI) — Know the Heat. Protect the Herd. Professional veterinary heat stress assessment, microclimate monitoring, and herd health protection system.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
